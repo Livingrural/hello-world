@@ -1,2 +1,4 @@
 # hello-world
-training
+In training
+
+HTML and CSS, learning javascript at the moment. 
